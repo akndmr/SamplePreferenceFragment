@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="pref_color_titles">
+        <item>Default</item>
+        <item>Yellowish</item>
+        <item>Reddish</item>
+        <item>Bluish</item>
+        <item>Grayish</item>
+    </string-array>
+
+    <string-array
+        name="pref_color_values">
+        <item>Default</item>
+        <item>Yellowish</item>
+        <item>Reddish</item>
+        <item>Bluish</item>
+        <item>Grayish</item>
+    </string-array>
+</resources>

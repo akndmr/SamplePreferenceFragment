@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="themeYellowish">#FFC312</color>
+    <color name="themeBluish">#3498db</color>
+    <color name="themeReddish">#ED4C67</color>
+    <color name="themeGrayish">#95a5a6</color>
+
+    <color name="textColorLight">#FFFFFF</color>
+    <color name="textColorDark">#34495e</color>
+</resources>

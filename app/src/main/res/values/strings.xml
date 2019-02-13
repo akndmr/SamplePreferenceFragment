@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SamplePreferenceFragment</string>
+
+    <string name="pref_colors_title">Select theme color</string>
+    <string name="pref_colors_summary">Select a color theme</string>
+    <string name="pref_colors_default_value">Default</string>
+</resources>
